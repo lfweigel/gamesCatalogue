@@ -1,1 +1,7 @@
-{"foo": "bar"}
+{
+  "title": "game",
+  "cost": {
+    "currency": "BRL",
+    "price": "123"
+  }
+}
