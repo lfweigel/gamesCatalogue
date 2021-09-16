@@ -1,37 +1,37 @@
 [
   {
-  "title": "test",
-  "author": "lucas",
-  "pages": 12
+  "title": "Fairy tales",
+  "author": "Hans Christian Andersen",
+  "pages": 784
   },
   {
-    "title": "test2",
-    "author": "lucas",
-    "pages": 97
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "pages": 928
   },
   {
-    "title": "test3",
-    "author": "lucas",
-    "pages": 1152
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "pages": 226
   },
   {
-    "title": "test4",
-    "author": "lucas",
-    "pages": 102
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "pages": 185
   },
   {
-    "title": "test5",
-    "author": "lucas",
-    "pages": 102
+    "title": "Don Quijote De La Mancha",
+    "author": "Miguel de Cervantes",
+    "pages": 1056
   },
   {
-    "title": "test6",
-    "author": "lucas",
-    "pages": 102
+    "title": "The Canterbury Tales",
+    "author": "Geoffrey Chaucer",
+    "pages": 544
   },
   {
-    "title": "test7",
-    "author": "lucas",
-    "pages": 102
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "pages": 824
   }
 ]
