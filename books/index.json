@@ -1,35 +1,37 @@
-{
+[
+  {
   "title": "test",
   "author": "lucas",
   "pages": "102"
-},
-{
-  "title": "test2",
-  "author": "lucas",
-  "pages": "102"
-},
-{
-  "title": "test3",
-  "author": "lucas",
-  "pages": "102"
-},
-{
-  "title": "test4",
-  "author": "lucas",
-  "pages": "102"
-},
-{
-  "title": "test5",
-  "author": "lucas",
-  "pages": "102"
-},
-{
-  "title": "test6",
-  "author": "lucas",
-  "pages": "102"
-},
-{
-  "title": "test7",
-  "author": "lucas",
-  "pages": "102"
-}
+  },
+  {
+    "title": "test2",
+    "author": "lucas",
+    "pages": "102"
+  },
+  {
+    "title": "test3",
+    "author": "lucas",
+    "pages": "102"
+  },
+  {
+    "title": "test4",
+    "author": "lucas",
+    "pages": "102"
+  },
+  {
+    "title": "test5",
+    "author": "lucas",
+    "pages": "102"
+  },
+  {
+    "title": "test6",
+    "author": "lucas",
+    "pages": "102"
+  },
+  {
+    "title": "test7",
+    "author": "lucas",
+    "pages": "102"
+  }
+]
