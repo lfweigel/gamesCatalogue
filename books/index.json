@@ -2,36 +2,36 @@
   {
   "title": "test",
   "author": "lucas",
-  "pages": "12"
+  "pages": 12
   },
   {
     "title": "test2",
     "author": "lucas",
-    "pages": "97"
+    "pages": 97
   },
   {
     "title": "test3",
     "author": "lucas",
-    "pages": "1152"
+    "pages": 1152
   },
   {
     "title": "test4",
     "author": "lucas",
-    "pages": "102"
+    "pages": 102
   },
   {
     "title": "test5",
     "author": "lucas",
-    "pages": "102"
+    "pages": 102
   },
   {
     "title": "test6",
     "author": "lucas",
-    "pages": "102"
+    "pages": 102
   },
   {
     "title": "test7",
     "author": "lucas",
-    "pages": "102"
+    "pages": 102
   }
 ]
