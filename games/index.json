@@ -1,0 +1,60 @@
+[
+  {
+  "id":"1",
+  "type":"game",
+  "title":"The Legend of Zelda: Breath of the Wild",
+  "developer":"Nintendo",
+  "description":"Esqueça tudo que você sabe sobre os jogos da série The Legend of Zelda. Entre em um mundo de descobertas, exploração e aventura em The Legend of Zelda: Breath of the Wild, o novo jogo da famosa série que veio para romper barreiras. Viaje pelos vastos campos, florestas e montanhas enquanto descobre o que aconteceu com o reino de Hyrule nesta deslumbrante aventura a céu aberto.",
+  "price":"18900",
+  "positive_reviews":76493,
+  "negavite_reviews":6589,
+  "release_date":"2017-03-03"
+  },
+  {
+  "id":"2",
+  "type":"game",
+  "title":"The Witcher 3: Wild Hunt",
+  "developer":"CD PROJEKT RED",
+  "description":"Enquanto a guerra assola todos os Reinos do Norte, você enfrenta o maior conflito de sua vida: ir em busca da criança da profecia, uma arma senciente capaz de alterar o mundo.",
+  "price":"6990",
+  "positive_reviews":42170,
+  "negavite_reviews":987,
+  "release_date":"2015-05-18"
+  },
+  {
+  "id":"3",
+  "type":"dlc",
+  "title":"The Witcher 3: Wild Hunt - Hearts of Stone",
+  "developer":"CD PROJEKT RED",
+  "description":"Seja novamente Geralt de Rívia, um matador de monstros profissional, dessa vez contratado para derrotar um impiedoso capitão bandido: Olgierd von Everec — um homem que possui o poder da imortalidade.",
+  "price":"2990",
+  "release_date":"2015-10-12",
+  "positive_reviews":7621,
+  "negavite_reviews":221,
+  "fullgame":"1"
+  },
+  {
+  "id":"4",
+  "type":"dlc",
+  "title":"The Witcher 3: Wild Hunt - Blood and Wine",
+  "developer":"CD PROJEKT RED",
+  "description":"Torne-se Geralt de Rívia, um matador de monstros profissional, e explore Toussaint, uma terra remota, intocada pelas guerras, onde você descobrirá o terrível segredo por trás da fera que aterroriza o reino.",
+  "price":"2990",
+  "release_date":"2016-05-30",
+  "positive_reviews":5231,
+  "negavite_reviews":2101,
+  "fullgame": "1"
+  },
+  {
+  "id":"5",
+  "type":"soundtrack",
+  "title":"The Witcher 3: Wild Hunt Soundtrack",
+  "developer":"CD PROJEKT RED",
+  "description":"Aventure-se no rico mundo atmosférico de The Witcher 3: Wild Hunt pela trilha sonora original do jogo.",
+  "price":"790",
+  "release_date":"2020-02-10",
+  "positive_reviews":761,
+  "negavite_reviews":98,
+  "fullgame":"1"
+  }
+]
