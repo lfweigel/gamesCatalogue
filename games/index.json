@@ -31,7 +31,7 @@
   "release_date":"2015-10-12",
   "positive_reviews":7621,
   "negavite_reviews":221,
-  "fullgame":"1"
+  "fullgame":"2"
   },
   {
   "id":"4",
@@ -43,7 +43,7 @@
   "release_date":"2016-05-30",
   "positive_reviews":5231,
   "negavite_reviews":2101,
-  "fullgame": "1"
+  "fullgame": "2"
   },
   {
   "id":"5",
@@ -55,6 +55,6 @@
   "release_date":"2020-02-10",
   "positive_reviews":761,
   "negavite_reviews":98,
-  "fullgame":"1"
+  "fullgame":"2"
   }
 ]
