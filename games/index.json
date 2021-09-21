@@ -8,7 +8,7 @@
     "base_price": 18900,
     "current_price": 18900,
     "positive_reviews": 76493,
-    "negavite_reviews": 6589,
+    "negative_reviews": 6589,
     "tags": "rpg,open_world",
     "release_date": "2017-03-03"
   },
@@ -21,7 +21,7 @@
     "base_price": 6990,
     "current_price": 4990,
     "positive_reviews": 42170,
-    "negavite_reviews": 987,
+    "negative_reviews": 987,
     "tags": "rpg,open_world",
     "release_date": "2015-05-18"
   },
@@ -35,7 +35,7 @@
     "current_price": 1990,
     "release_date": "2015-10-12",
     "positive_reviews": 7621,
-    "negavite_reviews": 221,
+    "negative_reviews": 221,
     "tags": "rpg,open_world",
     "fullgame": "2"
   },
@@ -49,7 +49,7 @@
     "current_price": 1990,
     "release_date": "2016-05-30",
     "positive_reviews": 5231,
-    "negavite_reviews": 2101,
+    "negative_reviews": 2101,
     "tags": "rpg,open_world",
     "fullgame": "2"
   },
@@ -63,7 +63,7 @@
     "current_price": 490,
     "release_date": "2020-02-10",
     "positive_reviews": 761,
-    "negavite_reviews": 98,
+    "negative_reviews": 98,
     "tags": "",
     "fullgame": "2"
   },
@@ -77,7 +77,7 @@
     "current_price": 23900,
     "release_date": "2021-05-07",
     "positive_reviews": 37601,
-    "negavite_reviews": 3007,
+    "negative_reviews": 3007,
     "tags": "horror,shooter"
   },
   {
@@ -90,7 +90,7 @@
     "current_price": 8900,
     "release_date": "2017-01-24",
     "positive_reviews": 28751,
-    "negavite_reviews": 2001,
+    "negative_reviews": 2001,
     "tags": "horror,shooter"
   },
   {
@@ -103,7 +103,7 @@
     "current_price": 1990,
     "release_date": "2017-12-10",
     "positive_reviews": 531,
-    "negavite_reviews": 761,
+    "negative_reviews": 761,
     "tags": "horror,shooter",
     "fullgame": "7"
   },
@@ -117,7 +117,7 @@
     "current_price": 990,
     "release_date": "2021-05-12",
     "positive_reviews": 68,
-    "negavite_reviews": 31,
+    "negative_reviews": 31,
     "tags": "",
     "fullgame": "6"
   },
@@ -131,7 +131,7 @@
     "current_price": 11900,
     "release_date": "2021-05-12",
     "positive_reviews": 7621,
-    "negavite_reviews": 2031,
+    "negative_reviews": 2031,
     "tags": "sci_fi,shooter"
   },
   {
@@ -144,7 +144,7 @@
     "current_price": 26990,
     "release_date": "2021-09-09",
     "positive_reviews": 3101,
-    "negavite_reviews": 768,
+    "negative_reviews": 768,
     "tags": "story_driven"
   },
   {
@@ -157,7 +157,7 @@
     "current_price": 6700,
     "release_date": "2018-04-24",
     "positive_reviews": 1087,
-    "negavite_reviews": 612,
+    "negative_reviews": 612,
     "tags": "story_driven,sci_fi"
   }
 ]
